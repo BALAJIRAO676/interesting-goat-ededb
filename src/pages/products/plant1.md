@@ -2,10 +2,7 @@
 id: '1'
 price: '0'
 title: Demystifying MVPs
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+description: 'All about '
 default_thumbnail_image: images/book cover demo.jpg
 default_original_image: images/pink-mars.jpg
 featured: true
