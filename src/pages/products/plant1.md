@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '0'
+price: '1'
 title: Demystifying MVPs
 description: >-
   All about MVPs, what to expect from them, Types of MVPs that you can build
