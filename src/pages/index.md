@@ -7,10 +7,10 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: >-
-      # Real, beautiful plants right to your door
+      # E-books that can be consumed in one sitting
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      E-bytes provides readers with interactive, easily consumable, readable
+      ebooks that can be consumed on the fly
     actions:
       - title: See all items
         url: /store
