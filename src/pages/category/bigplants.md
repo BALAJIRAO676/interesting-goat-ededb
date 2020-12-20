@@ -1,5 +1,5 @@
 ---
-title: 'Why an MVP? What to expect out of it, Types of MVPs and its examples'
+title: For first time startup founders
 order: 1
 section: Store
 template: category
