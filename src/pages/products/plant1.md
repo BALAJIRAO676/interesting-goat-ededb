@@ -2,7 +2,9 @@
 id: '1'
 price: '0'
 title: Demystifying MVPs
-description: 'All about '
+description: >-
+  All about MVPs, what to expect from them, Types of MVPs that you can build
+  along with real life startup examples
 default_thumbnail_image: images/book cover demo.jpg
 default_original_image: images/pink-mars.jpg
 featured: true
